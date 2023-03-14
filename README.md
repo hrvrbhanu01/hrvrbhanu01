@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Solidity
 
-- 🤔 I’m looking for help with projects on Blochain
+- 🤔 I’m looking for help with projects on Blockchain
 
 - 💬 Ask me about Nodejs, Solidity, Ethereum, NFTs, Cryptography
 
