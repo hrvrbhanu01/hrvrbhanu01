@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hFmIU5GQF18Aw/giphy.gif" width="100"/>
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 </div>
 <div id="badges" align="center">
   
