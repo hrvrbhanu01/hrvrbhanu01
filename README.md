@@ -23,7 +23,7 @@
 
 - 🤔 I’m looking for help with projects on Blockchain.
 
-- 💬 Ask me about Nodejs, Solidity, Ethereum, NFTs, Cryptography.
+- 💬 Ask me about Hyperledger Fabric, K8S, Blockchain, NFTs, Self Sovereign Identity, Solidity, Ethereum, Smart Contracts.
 
 - 📫 How to reach me: dixitbhanu16048050@gmail.com
 
