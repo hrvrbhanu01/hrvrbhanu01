@@ -17,15 +17,15 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-- 🔭 I’m currently working on my skills in Blockchain Development
+- 🔭 I’m currently working on my skills in Blockchain Development.
 
-- 🌱 I’m currently learning Hyperledger Fabric and Indy.
+- 🌱 I’m currently learning Hyperledger Fabric and Golang.
 
-- 🤔 I’m looking for help with projects on Blockchain.
+- 🤔 I’m looking for help with projects on HLF Blockchain.
 
 - 💬 Ask me about Hyperledger Fabric, K8S, Blockchain, NFTs, Self Sovereign Identity, Solidity, Ethereum, Smart Contracts.
 
-- 📫 How to reach me: dixitbhanu16048050@gmail.com
+- 📫 Reach me on: dixitbhanu16048050@gmail.com
 
 - ⚡ Fun fact: WUBALUBADUBDUB !
 
