@@ -23,7 +23,7 @@
 
 - 🤔 I’m looking for help with projects on HLF Blockchain.
 
-- 💬 Ask me about Hyperledger Fabric, K8S, Blockchain, NFTs, Self Sovereign Identity, Solidity, Ethereum, Smart Contracts.
+- 💬 Ask me about Hyperledger Fabric, Kubernetes, Blockchain, NFTs, Self Sovereign Identity, Solidity, Ethereum, Chaincode.
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
