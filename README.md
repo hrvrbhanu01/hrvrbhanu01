@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="BLOCKCHAIN">
 </div>
 <div id="badges" align="center">
   
@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning Hyperledger Fabric and Golang.
 
-- 🤔 I’m looking for help with projects on HLF Blockchain.
+- 🤔 I’m looking for help with projects on Hyperledger Fabric Blockchain.
 
-- 💬 Ask me about Hyperledger Fabric, Kubernetes, Blockchain, NFTs, Self Sovereign Identity, Solidity, Ethereum, Chaincode.
+- 💬 Ask me about Hyperledger Fabric, Kubernetes, Amazon EKS, Blockchain, NFTs, Self Sovereign Identity, Solidity, Chaincode Development, Golang.
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
