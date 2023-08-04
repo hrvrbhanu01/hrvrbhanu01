@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div id="header" align="center">
  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="BLOCKCHAIN">
 </div>
