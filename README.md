@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning Hyperledger Fabric and Golang.
 
-- 🤔 I’m looking for help with projects on Hyperledger Fabric Blockchain.
+- 🤔 I’m looking for help with projects on Hyperledger Fabric.
 
-- 💬 Ask me about Hyperledger Fabric, Kubernetes, Amazon EKS, Blockchain, NFTs, Self Sovereign Identity, Solidity, Chaincode Development, Golang.
+- 💬 Ask me about Hyperledger Fabric, hlf-operator, Kubernetes, Amazon EKS, Blockchain, NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang.
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
@@ -43,6 +43,5 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrvrbhanu01)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrvrbhanu01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
