@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on my skills in Blockchain Development.
 
-- 🌱 I’m currently learning Hyperledger Fabric and Golang.
+- 🌱 I’m currently learning Golang Dev.
 
 - 🤔 I’m looking for help with projects on Hyperledger Fabric.
 
