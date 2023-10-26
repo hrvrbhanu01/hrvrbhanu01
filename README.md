@@ -17,13 +17,11 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-- 🔭 I’m currently working on my skills in Blockchain Development.
+- 🔭 I’m currently focusing on my skills in Golang Development and Enterprise Blockchain Development.
 
-- 🌱 I’m currently learning Golang Dev.
+- 🤔 I’m looking for help with projects on Golang Backend Dev and Hyperledger Fabric.
 
-- 🤔 I’m looking for help with projects on Hyperledger Fabric.
-
-- 💬 Ask me about Hyperledger Fabric, hlf-operator, Kubernetes, Amazon EKS, Blockchain, NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang.
+- 💬 Ask me about Hyperledger Fabric, hlf-operator, Kubernetes, Amazon EKS, Blockchain, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang.
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
