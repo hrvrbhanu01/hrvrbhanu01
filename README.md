@@ -1,11 +1,4 @@
-
-<div id="header" align="center">
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="BLOCKCHAIN">
-</div>
-<div id="badges" align="center">
-  
-  
-  <a href="https://www.linkedin.com/in/bhanu-prakash-dixit-6030731ab">
+ <a href="https://www.linkedin.com/in/bhanu-prakash-dixit-6030731ab">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/hrvr__">
