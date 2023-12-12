@@ -14,7 +14,7 @@
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
-- ⚡ Fun fact: WUBALUBADUBDUB !
+- ⚡ Fun fact: WUBBALUBBADUBDUB !
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
