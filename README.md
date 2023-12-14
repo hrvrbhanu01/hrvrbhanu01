@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for help with projects on Golang Backend Dev and Hyperledger Fabric.
 
-- 💬 Ask me about Hyperledger Fabric, hlf-operator, Hyperledger Explorer, Kubernetes, Amazon EKS, Blockchain, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang.
+- 💬 Ask me about Hyperledger Fabric, hlf-operator, Hyperledger Explorer, Hyperledger Operations Console, Kubernetes, Amazon EKS, Azure AKS, Blockchain, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang, NodeJS.
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
