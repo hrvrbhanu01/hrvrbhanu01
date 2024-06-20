@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently focusing on my skills in Golang Development and Enterprise Blockchain Development.
 
-- 🤔 I’m looking for help with projects on Golang Backend Dev and Hyperledger Fabric.
+- 🤔 I’m looking for help with projects on Public Blockhain Networks and Hyperledger Fabric.
 
 - 💬 Ask me about Hyperledger Fabric, hlf-operator, Hyperledger Explorer, Hyperledger Operations Console, Kubernetes, Amazon EKS, Azure AKS, Blockchain, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang, NodeJS.
 
