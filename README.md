@@ -1,9 +1,6 @@
  <a href="https://www.linkedin.com/in/bhanu-prakash-dixit-6030731ab">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/hrvr__">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 - 🔭 I’m currently focusing on my skills in Golang Development and Enterprise Blockchain Development.
