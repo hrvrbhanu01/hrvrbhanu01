@@ -3,11 +3,11 @@
   </a>
 </div>
 
-- 🔭 I’m currently focusing on my skills in Golang Development and Enterprise Blockchain Development.
+- 🔭 I’m currently focusing on my skills in Golang Development, Solidity and Enterprise Blockchain Development.
 
-- 🤔 I’m looking for help with projects on Public Blockhain Networks and Hyperledger Fabric.
+- 🤔 I’m looking for help with projects on Public Blockhain Networks.
 
-- 💬 Ask me about Hyperledger Fabric, hlf-operator, Hyperledger Explorer, Hyperledger Operations Console, Kubernetes, Amazon EKS, Azure AKS, Blockchain, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang, NodeJS.
+- 💬 Ask me about Hyperledger Fabric Ethereum, hlf-operator, Hyperledger Explorer, Hyperledger Operations Console, Kubernetes, Amazon EKS, Azure AKS, Blockchain, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang, NodeJS and Solidity.
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>&nbsp;
