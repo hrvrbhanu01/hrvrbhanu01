@@ -7,7 +7,7 @@
 
 - 🤔 I’m looking for help with projects on Public Blockhain Networks.
 
-- 💬 Ask me about Hyperledger Fabric Ethereum, hlf-operator, Hyperledger Explorer, Hyperledger Operations Console, Kubernetes, Amazon EKS, Azure AKS, Blockchain, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang, NodeJS and Solidity.
+- 💬 Ask me about Hyperledger Fabric, Hyperledger Explorer, Hyperledger Operations Console, Kubernetes, Amazon Web Services, IPFS(InterPlanetary File System), NFTs, Self Sovereign Identity, Chaincode Dev Lifecycle, Golang, NodeJS.
 
 - 📫 Reach me on: dixitbhanu16048050@gmail.com
 
